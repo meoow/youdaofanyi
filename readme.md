@@ -8,6 +8,7 @@ This library emplemented Eng<->Chn translation via Youdao online fanyi service.
 go get github.com/meoow/youdaofanyi
 
 # build command line tool
+cd $GOPATH/src/github.com/meoow/youdaofanyi
 make
 ```
 
